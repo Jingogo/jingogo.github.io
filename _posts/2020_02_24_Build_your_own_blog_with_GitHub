@@ -1,0 +1,6 @@
+jekyll new .
+bundle exec jekyll serve
+bundle exec jekyll serve --livereload
+change the Gemfile
+bundle update
+bundle install
