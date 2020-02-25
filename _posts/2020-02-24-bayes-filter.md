@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A record of my master thesis"
+title:  "Bayes filters"
 date:   2020-02-24 22:06:50 +0100
 categories: jekyll update
 ---

@@ -9,7 +9,7 @@ categories: jekyll update
 1. Decided to one interesting master thesis about robotics at my univeristy
 2. Make plans about how to find a master thesis topic
 
-Excited for the idea to work independently on a really interesting topic instead of a easy-to-pass one
+>Excited for the idea to work independently on a really interesting topic instead of a easy-to-pass one
 
 ### 2020.02.22--2020.02.24
 1. Checked the course "Introduction to mobile robotics" 
@@ -23,7 +23,8 @@ Excited for the idea to work independently on a really interesting topic instead
 
 ### 2020.02.25
 1. Checked the potential supervisors and their latest reseach paper 
-Found several Phds that I am interested in. There is one I especially like.
+
+> Found several Phds that I am interested in. There is one I especially like.
 
 
 
