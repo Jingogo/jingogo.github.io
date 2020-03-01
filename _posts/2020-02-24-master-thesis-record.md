@@ -40,6 +40,23 @@ Done:
 Result:
 - The PhD can not supervise me because he is gonna leave, but he recommened to contact his one of colleague
 
+## 2020.02.28  
+Done:
+- Send email to the postdoc
+- Reviewed linear algebra
+
+## 2020.02.29  
+Nothing
+
+## 2020.03.01  
+Done:
+- Finished exercise about differential drive
+
+## 2020.03.02 
+Done:
+- Finished exercise about bayes filter
+
+
 
 
 
