@@ -37,7 +37,7 @@ $$I=\int h(x) f(x) d x=\int h(x) \frac{f(x)}{g(x)} g(x) d x=\mathbb{E}_{g}(h(x) 
 1. Generate $N$ samples $X_{1}, \ldots, X_{N} \sim g$ independently.
 2. $\hat{I} \triangleq\frac{1}{N} \sum_{i} \frac{h(X_{i}) f(X_{i})}{g(X_{i})}$, we have $I \approx \hat{I}$.
 
-This approximation process is called importance sampling.
+This approximation process is called importance sampling. $\frac{f(x)}{g(x)}$ is called the importance weight.
 
 With importance sampling, we can choose a g(x) which is large inside the important region $A$, therefore, we could generate more samples inside the region $A$.
 
