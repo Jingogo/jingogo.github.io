@@ -1,6 +1,6 @@
 ## 1. How robots interact with the enviroment?
 
-![Stuart J. Russell and Peter Norvig, P. 35](./000_imgs/2020-06-16-Uncertainty-in-Robotics_2020-06-17-13-17-44.png =500x)
+![Stuart J. Russell and Peter Norvig, P. 35](./000_imgs/2020-06-16-Uncertainty-in-Robotics_2020-06-17-13-17-44.png)
 
 ## 2. Uncertainty in robotics
 
