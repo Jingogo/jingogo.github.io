@@ -1,5 +1,3 @@
-
-
 > From "An Introduction to AI Robotics by Robin Murphy P.5"  
 > 
 > A **paradigm** is a philosophy or set of assumptions and/or techniques which characterize an approach to a class of problems. It is both a way of looking at the world and an implied set of tools for solving problems.
